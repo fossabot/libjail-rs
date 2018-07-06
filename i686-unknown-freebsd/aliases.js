@@ -1,0 +1,12 @@
+var ALIASES = {};
+ALIASES['bitflags'] = {};
+ALIASES['byteorder'] = {};
+ALIASES['cfg_if'] = {};
+ALIASES['cfg_if'] = {};
+ALIASES['libc'] = {};
+ALIASES['nix'] = {};
+ALIASES['nix'] = {};
+ALIASES['num_traits'] = {};
+ALIASES['rustc_demangle'] = {};
+ALIASES['users'] = {};
+ALIASES['void'] = {};
